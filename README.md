@@ -1,4 +1,4 @@
-#Project for Getting and Cleaning Data, Coursera.
+#Tidy Data
 
 The course instructions were the following:
 
