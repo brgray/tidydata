@@ -1,5 +1,3 @@
-tidydata
-========
 #Project for Getting and Cleaning Data, Coursera.
 
 The course instructions were the following:
